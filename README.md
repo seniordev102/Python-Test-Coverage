@@ -1,4 +1,4 @@
-# Gmail API Client with Async Support
+# Test Task
 
 A high-performance, async Gmail API client that efficiently fetches user profile, labels, and recent emails while transforming verbose Gmail API responses into clean, essential data structures suitable for AI agent processing.
 
